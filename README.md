@@ -1,7 +1,6 @@
 # Hi!
 
-I'm Sam - Welcome to my Github which is a dumping ground for all of the overly-ambitious side projects and random 💩 that pops into my head.
+I'm Samuel - I frequently used the hypen instead of a semicolon in my sentences before it became a trademark of ChatGPT.
 
-![](https://raw.githubusercontent.com/sambeckingham/sambeckingham/master/derp.gif)
+I blog erratically and make bold claims over at my website, [beckingham.dev](https://beckingham.dev).  Peruse at your own peril.
 
-Reach me on Twitter [@SamboBeckingam](https://twitter.com/SamboBeckingham)
